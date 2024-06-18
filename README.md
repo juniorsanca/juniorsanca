@@ -4,6 +4,8 @@
 
   💅 Frontend
   - js
+  - css
+  - html
   - vue Js
   - bootstrap
   - tailwind css
