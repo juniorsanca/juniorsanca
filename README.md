@@ -1,16 +1,49 @@
-## Hi there 👋
+## 👋 Hi, I am a web developer 
 
-<!--
-**juniorsanca/juniorsanca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👽 Tech stack : 
 
-Here are some ideas to get you started:
+  💅 Frontend
+  - js
+  - vue Js
+  - bootstrap
+  - tailwind css
+  
+  🧰 Backend
+  - php
+  - node js
+  - laravel
+    
+  💿 Database
+  - mysql
+  - sQlite
+  - mongodb
+  - firebase
+  - supabase
+    
+  📱 Mobile
+  - ionic framework
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  🧠 Tools
+  - git
+  - github
+  - Shell (Bash, Zsh)
+
+  📡 Devops
+  - aws
+  - ubuntu
+  - docker
+
+  🚧 Project management 
+  - trello
+  - notion
+  - agile (XP, Scrum, Kanban)
+
+  🛍 E-commerce
+  - shopify
+  - woocomerce
+
+  🦄 Flowbite | Flaticon | Heroicons
+  - https://flowbite.com
+  - https://www.flaticon.com
+  - https://heroicons.com/outline
+    
