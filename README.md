@@ -44,8 +44,8 @@
   - shopify
   - woocomerce
 
-  🦄 Flowbite | Flaticon | Heroicons
-  - https://flowbite.com
-  - https://www.flaticon.com
-  - https://heroicons.com/outline
+  🦄 Icons
+  - flowbite
+  - flaticon
+  - heroicons
     
