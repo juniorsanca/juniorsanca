@@ -1,4 +1,4 @@
-## 👋 Hi, I am a web developer 
+## 👋 Hello, I am a web developer 
 
 👽 Tech stack : 
 
